@@ -1,0 +1,7 @@
+httpx
+fastapi
+uvicorn[standard]
+pydantic
+aiofiles
+h2
+hypercorn
