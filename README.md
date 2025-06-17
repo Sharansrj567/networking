@@ -21,4 +21,8 @@ This repository contains implementations for various internet protocols, includi
    - Includes a tracker, seeder, and leecher implementation.
    - Detailed instructions can be found in the `Bittorrent` directory.
 
+4. NS-3 TCP Experiment Simulation  
+   - Measures and compares throughput and flow‐completion times of TCP variants (TCP-BIC, DCTCP, mixed) over a dumbbell topology. 
+   - Detailed instructions can be found in the `NS3` directory.   
+
 Each section has its own README file with detailed setup instructions, requirements, and usage examples. Please refer to the respective README files for more information on how to run and test each protocol implementation.
